@@ -289,7 +289,7 @@
   },
   {
     "label": "LBL_CHECK_USER_MESSAGE",
-    "text": "👤 Nome de usuario: {username}<br>📆 Expira em: {expiration_date}<br>📅 Dias restantes: {expiration_days}<br>🚫 Conexoes: {count_connections}|{limit_connections}"
+    "text": "TEM INFORMAÇÃO AQUI NÃO 😤"
   },
   {
     "label": "LBL_NETWORK_STATUS",
