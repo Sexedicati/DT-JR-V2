@@ -31,7 +31,7 @@
         "icon": "https://i.ibb.co/M6Hnsdh/ic-vivo.png",
         "id": 98733,
         "mode": "SSH_PROXY",
-        "name": "𝐕𝐈𝐕𝐎 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 01",
+        "name": "𝐕𝐈𝐕𝐎 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 8080
@@ -88,7 +88,7 @@
         "icon": "https://i.ibb.co/M6Hnsdh/ic-vivo.png",
         "id": 98734,
         "mode": "SSH_PROXY",
-        "name": "𝐕𝐈𝐕𝐎 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 02",
+        "name": "𝐕𝐈𝐕𝐎 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 01",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 8080
