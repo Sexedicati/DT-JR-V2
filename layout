@@ -1,0 +1,353 @@
+[
+    {
+        "id": 14253,
+        "label": "Nome do app",
+        "name": "APP_NAME",
+        "value": null,
+        "type": "STRING",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14254,
+        "label": "Logo do app",
+        "name": "APP_LOGO",
+        "value": "https://atlantus.com.br/miracle/update/drawing/heKKjOTX7Ij5AAD94RHwauipYdHEH4hcj2pgoJlpS7VFr9AkTwXpvDqnSrXRc0bhXT3BeQvw92JUsPtLGj5lGhidnAf8zVVG7MacA0av3HfCJQqYFDK1tYCBddSGNPdKA5DAIaMQnrYZa28EXSWl75TH6f4sCg0Elz8GpXHYO793JnCcv1Om6A6m8HgtK7Q5dVuEnlUPgwaUKWliL5FmeJTZnFg3yksmRzL1yCGc6Ct04P3x.png",
+        "type": "IMAGE",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14255,
+        "label": "Imagem de fundo",
+        "name": "APP_BACKGROUND_IMAGE",
+        "value": "https://i.pinimg.com/originals/0c/8b/7d/0c8b7dbbaa53f94e56fd597c482cba96.jpg",
+        "type": "IMAGE",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14256,
+        "label": "Tipo do fundo do app",
+        "name": "APP_BACKGROUND_TYPE",
+        "value": {
+            "options": [
+                {
+                    "label": "Imagem",
+                    "value": "IMAGE"
+                },
+                {
+                    "label": "Cor",
+                    "value": "COLOR"
+                }
+            ],
+            "selected": "COLOR"
+        },
+        "type": "SELECT",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14257,
+        "label": "Cor de fundo",
+        "name": "APP_BACKGROUND_COLOR",
+        "value": "#080e16c7",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14258,
+        "label": "Cor do card inicial",
+        "name": "APP_CARD_COLOR",
+        "value": "#b0a7ae00",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14259,
+        "label": "Raio do card inicial",
+        "name": "APP_CARD_RADIUS",
+        "value": 20,
+        "type": "INTEGER",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14260,
+        "label": "Cor do card de status",
+        "name": "APP_CARD_STATUS_COLOR",
+        "value": "#ffa72b00",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14261,
+        "label": "Raio do card de status",
+        "name": "APP_CARD_STATUS_RADIUS",
+        "value": 25,
+        "type": "INTEGER",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14262,
+        "label": "Cor do card de configurações",
+        "name": "APP_CARD_CONFIG_COLOR",
+        "value": "#7d7775c9",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14263,
+        "label": "Cor do fundo dos dialogs",
+        "name": "APP_DIALOG_BACKGROUND_COLOR",
+        "value": "#000000e8",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14264,
+        "label": "Cor do fundo do dialog de log",
+        "name": "APP_DIALOG_LOGGER_COLOR",
+        "value": "#080e16c7",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14265,
+        "label": "Cor das bordas",
+        "name": "APP_BORDER_COLOR",
+        "value": "#1d242e73",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14266,
+        "label": "Cor dos inputs",
+        "name": "APP_INPUT_COLOR",
+        "value": "#1d242e73",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14267,
+        "label": "Raio dos inputs",
+        "name": "APP_INPUT_RADIUS",
+        "value": 25,
+        "type": "INTEGER",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14268,
+        "label": "Cor dos textos",
+        "name": "APP_TEXT_COLOR",
+        "value": "#f9fff2ff",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14269,
+        "label": "Cor dos botões",
+        "name": "APP_BUTTON_COLOR",
+        "value": "#2b2b2b9e",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14270,
+        "label": "Raio dos botões",
+        "name": "APP_BUTTON_RADIUS",
+        "value": 25,
+        "type": "INTEGER",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14271,
+        "label": "Cor dos icones",
+        "name": "APP_ICON_COLOR",
+        "value": "#fff7fbff",
+        "type": "COLOR",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14272,
+        "label": "Exibir modo de conexão",
+        "name": "APP_SHOW_CONNECTION_MODE",
+        "value": false,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 22645,
+        "label": "Atualizar automaticamente as configurações ao lançar uma atualização.",
+        "name": "APP_CONFIG_AUTO_UPDATE",
+        "value": true,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14273,
+        "label": "Iniciar o app automaticamente ao reiniciar o dispositivo",
+        "name": "APP_AUTO_START",
+        "value": false,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14274,
+        "label": "Usar limiter de conexão",
+        "name": "APP_CONNECTION_LIMITER",
+        "value": true,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14275,
+        "label": "Usar botão de atualizações",
+        "name": "APP_BTN_UPDATE_ENABLED",
+        "value": true,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14276,
+        "label": "Usar botão de registros",
+        "name": "APP_BTN_LOGGER_ENABLED",
+        "value": true,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14277,
+        "label": "Usar botão de pagina webview",
+        "name": "APP_BTN_PAGE_ENABLED",
+        "value": false,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14278,
+        "label": "Ativar dialog de erros",
+        "name": "APP_DIALOG_ERROR_ENABLED",
+        "value": false,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14279,
+        "label": "Ativar dialog de checkuser",
+        "name": "APP_CHECKUSER_DIALOG_ENABLED",
+        "value": true,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14280,
+        "label": "Ativar toast de sucesso",
+        "name": "APP_SUCCESS_TOAST_ENABLED",
+        "value": true,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14281,
+        "label": "Ativar toast de erro",
+        "name": "APP_ERROR_TOAST_ENABLED",
+        "value": true,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14282,
+        "label": "Usar layout webview",
+        "name": "APP_LAYOUT_WEBVIEW_ENABLED",
+        "value": false,
+        "type": "BOOLEAN",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14283,
+        "label": "Mensagem",
+        "name": "APP_MESSAGE",
+        "value": null,
+        "type": "TEXT",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14284,
+        "label": "URL de atualização do aplicativo",
+        "name": "APP_UPDATE_URL",
+        "value": null,
+        "type": "URL",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14285,
+        "label": "Tipo de mensagem",
+        "name": "APP_MESSAGE_TYPE",
+        "value": {
+            "options": [
+                {
+                    "label": "Alerta",
+                    "value": "ALERT"
+                },
+                {
+                    "label": "Informação",
+                    "value": "INFO"
+                },
+                {
+                    "label": "Boas vindas",
+                    "value": "WELCOME"
+                },
+                {
+                    "label": "Sem mensagem",
+                    "value": "NONE"
+                }
+            ],
+            "selected": "NONE"
+        },
+        "type": "SELECT",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14286,
+        "label": "LAYOUT WEBVIEW (POR SUA CONTA E RISCO)",
+        "name": "APP_LAYOUT_WEBVIEW",
+        "value": null,
+        "type": "HTML",
+        "status": "ACTIVE",
+        "user_id": "2a6b1d78-e6f3-4956-be98-29d1d70278fe"
+    },
+    {
+        "id": 14287,
+        "label": "ANDROID WEBVIEW (POR SUA CONTA E RISCO)",
+        "name": "APP_SUPPORT_BUTTON",
+        "value": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n    <title>1429503272 - @Tauros_projectVPN | design by @alexdsgmoura</title>\n\n    <style>\n      :root {\n        font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;\n        line-height: 1.5;\n        font-weight: 400;\n        font-synthesis: none;\n        text-rendering: optimizeLegibility;\n        -webkit-font-smoothing: antialiased;\n        -moz-osx-font-smoothing: grayscale;\n        text-size-adjust: 100%;\n        -webkit-text-size-adjust: 100%;\n\n        --space-status-bar: 10px;\n        --space-android-nav-bar: 33px;\n      }\n\n      @-webkit-keyframes onePulse {\n        0% {\n          box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.5);\n        }\n        50% {\n          box-shadow: 0px 0px 4px 8px rgba(255, 255, 255, 0.1);\n        }\n        100% {\n          box-shadow: 0px 0px 4px 4px rgba(255, 255, 255, 0.5);\n        }\n      }\n\n      @keyframes onePulse {\n        0% {\n          box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.5);\n        }\n        50% {\n          box-shadow: 0px 0px 4px 8px rgba(255, 255, 255, 0.1);\n        }\n        100% {\n          box-shadow: 0px 0px 4px 4px rgba(255, 255, 255, 0.5);\n        }\n      }\n\n      * {\n        margin: 0;\n        padding: 0;\n        box-sizing: border-box;\n      }\n\n      html,\n      body,\n      main {\n        width: 100%;\n        height: 100%;\n      }\n\n      body {\n        background: transparent;\n      }\n\n      section.home {\n        width: 100%;\n        height: 100%;\n\n        display: flex;\n        flex-direction: column;\n        align-items: center;\n        justify-content: space-between;\n\n        padding: var(--space-status-bar) 10px var(--space-android-nav-bar) 10px;\n      }\n\n      section.home header {\n        width: 100%;\n        height: auto;\n\n        display: flex;\n        flex-direction: column;\n        gap: 5px;\n      }\n\n      section.home header div.row {\n        width: auto;\n        height: auto;\n\n        display: flex;\n        gap: 10px;\n\n        margin: 0px 0px 0px auto;\n      }\n\n      section.home header div.row button {\n        width: 40px;\n        height: 40px;\n\n        display: flex;\n        justify-content: center;\n        align-items: center;\n\n        border: 1px solid #ffffff;\n        border-radius: 50%;\n\n        box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5);\n\n        background: transparent;\n      }\n\n      section.home header div.row button svg {\n        color: #000;\n      }\n\n      /* ICONE DE NOVO VIDEO */\n      section.home header div.row button:nth-child(1) {\n        border: 1px solid #00ECFF;\n\n        box-shadow: 0px 0px 10px 0px rgba(255, 171, 0, 0.5);\n      }\n\n      section.home header div.row button:nth-child(1) svg {\n        color: #00ECFF;\n      }\n\n      /* ICONE DE MUSICA */\n      section.home header div.row button:nth-child(2) {\n        border: 1px solid #FF8D00;\n\n        box-shadow: 0px 0px 10px 0px rgba(33, 150, 243, 0.5);\n      }\n\n      section.home header div.row button:nth-child(2) svg {\n        color: #FF8D00;\n      }\n\n      /* ICONE DO YOUTUBE */\n      section.home header div.row button:nth-child(3) {\n        border: 1px solid #d50000;\n\n        box-shadow: 0px 0px 10px 0px rgba(213, 0, 0, 0.5);\n      }\n\n      section.home header div.row button:nth-child(3) svg {\n        color: #d50000;\n      }\n\n      /* ICONE DE RENOVAR */\n      section.home header div.row button:nth-child(4) {\n        border: 1px solid #00FF57;\n\n        box-shadow: 0px 0px 10px 0px rgba(149, 117, 205, 0.5);\n      }\n\n      section.home header div.row button:nth-child(4) svg {\n        color: #00FF57;\n      }\n\n      /* ICONE DE ADMINISTRADOR */\n      section.home header div.row button:nth-child(5) {\n        border: 1px solid #FF00D9;\n\n        box-shadow: 0px 0px 10px 0px rgba(49, 27, 146, 0.5);\n      }\n\n      section.home header div.row button:nth-child(5) svg {\n        color: #FF00D9;\n      }\n\n      section.home section {\n        width: 100%;\n        height: auto;\n\n        display: flex;\n        flex-direction: column;\n        align-items: center;\n        gap: 1rem;\n      }\n\n      section.home section div.container-local-ip {\n        width: auto;\n        height: auto;\n\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        gap: 10px;\n\n        padding: 10px 10%;\n\n        border-radius: 25px;\n\n        background: rgba(0, 0, 0, 0.5);\n\n        transition: all 0.3s ease 0.1s;\n      }\n\n      section.home section div.container-local-ip span {\n        color: #ffffff;\n      }\n\n      section.home section div.container-tools {\n        width: 100%;\n        height: auto;\n\n        display: flex;\n        justify-content: center;\n\n        position: relative;\n      }\n\n      section.home section div.container-tools button {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        gap: 8px;\n\n        margin: auto 0px 0px 0px;\n        padding: 10px 8%;\n\n        border: 0;\n        border-radius: 50px;\n\n        box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.5);\n\n        color: #ffffff;\n\n        background: rgba(0, 0, 0, 0.5);\n\n        transition: all linear;\n      }\n\n      section.home section div.container-tools button svg {\n        color: #9e9e9e;\n      }\n\n      section.home section div.container-tools ul {\n        width: 90%;\n        max-width: 300px;\n        height: 55px;\n\n        display: flex;\n        align-items: center;\n        justify-content: space-around;\n        gap: 5px;\n\n        position: absolute;\n        top: -190%;\n\n        padding: 0 5px;\n\n        border-radius: 50px;\n        box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.5);\n\n        opacity: 0;\n        transform: scale(0);\n        transform-origin: bottom center;\n\n        transition: all 0.3s ease 0.1s;\n\n        background: rgba(0, 0, 0, 0.5);\n      }\n\n      section.home section div.container-tools ul li {\n        width: 40px;\n        height: 40px;\n\n        display: flex;\n        justify-content: center;\n        align-items: center;\n\n        border: 1px solid #ffffff;\n        border-radius: 50%;\n\n        box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5);\n\n        background: transparent;\n      }\n\n      @media (max-width: 320px) {\n        section.home section div.container-tools ul li {\n          width: 30px;\n          height: 30px;\n\n          display: flex;\n          justify-content: center;\n          align-items: center;\n\n          border: 1px solid #ffffff;\n          border-radius: 50%;\n\n          box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5);\n\n          background: transparent;\n        }\n\n        section.home section div.container-tools ul li svg {\n          transform: scale(0.9);\n        }\n      }\n\n      section.home section div.container-tools ul li svg {\n        color: #ffffff;\n      }\n\n      /* ICONE DO CHECKUSER */\n      section.home section div.container-tools ul li:nth-child(1) {\n        border-color: #fff176;\n\n        box-shadow: 0px 0px 10px 0px rgba(255, 241, 118, 0.5);\n      }\n\n      section.home section div.container-tools ul li:nth-child(1) svg {\n        color: #fff176;\n      }\n\n      /* ICONE DE BATERIA */\n      section.home section div.container-tools ul li:nth-child(2) {\n        border-color: #8bc34a;\n\n        box-shadow: 0px 0px 10px 0px rgba(139, 195, 74, 0.5);\n      }\n\n      section.home section div.container-tools ul li:nth-child(2) svg {\n        color: #8bc34a;\n      }\n\n      /* ICONE DE APN */\n      section.home section div.container-tools ul li:nth-child(3) {\n        border-color: #F2FF00;\n\n        box-shadow: 0px 0px 10px 0px rgba(148, 143, 168, 0.5);\n      }\n\n      section.home section div.container-tools ul li:nth-child(3) svg {\n        color: #F2FF00;\n      }\n\n      /* ICONE DE LIMPAR DADOS */\n      section.home section div.container-tools ul li:nth-child(4) {\n        border-color: #847ea7;\n\n        box-shadow: 0px 0px 10px 0px rgba(132, 126, 167, 0.5);\n      }\n\n      section.home section div.container-tools ul li:nth-child(4) svg {\n        color: #847ea7;\n      }\n\n      /* ICONE DE SPEEDTEST */\n      section.home section div.container-tools ul li:nth-child(5) {\n        border-color: #1a237e;\n        border-radius: 50%;\n\n        box-shadow: 0px 0px 10px 0px rgba(26, 35, 126, 0.5);\n      }\n\n      section.home section div.container-tools ul li:nth-child(5) svg {\n        color: #1a237e;\n      }\n\n      /* ICONE DE HOTSPOT */\n      section.home section div.container-tools ul li:nth-child(6) {\n        border-color: #00FF3F;\n        border-radius: 50%;\n\n        box-shadow: 0px 0px 10px 0px rgba(26, 35, 126, 0.5);\n      }\n\n      section.home section div.container-tools ul li:nth-child(6) svg {\n        color: #FFFFFF;\n      }\n\n      section.home section div.container-tools.active button {\n        -webkit-animation: onePulse 0.6s forwards linear;\n        animation: onePulse 0.6s forwards linear;\n      }\n\n      section.home section div.container-tools.active ul {\n        opacity: 1;\n        transform: scale(1);\n      }\n\n      .hidden {\n        opacity: 0;\n        visibility: hidden;\n      }\n\n      .display-none {\n        display: none;\n      }\n    </style>\n  </head>\n\n  <body>\n    <main>\n      <section class=\"home\">\n        <header>\n          <div class=\"row\">\n            <button type=\"button\" title=\"Vídeo novo\
