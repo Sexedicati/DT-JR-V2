@@ -316,7 +316,7 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99120,
         "mode": "SSH_PROXY",
-        "name": "CLARO SECURYTI",
+        "name": "CLARO SECURITY",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
@@ -373,7 +373,7 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99121,
         "mode": "SSH_PROXY",
-        "name": "CLARO SECURYTI 01",
+        "name": "CLARO SECURITY 01",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
@@ -430,7 +430,7 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99122,
         "mode": "SSH_PROXY",
-        "name": "CLARO SECURYTI 03",
+        "name": "CLARO SECURITY 03",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
@@ -487,7 +487,7 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99123,
         "mode": "SSH_PROXY",
-        "name": "CLARO SECURYTI 04",
+        "name": "CLARO SECURITY 04",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
