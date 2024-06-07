@@ -487,7 +487,7 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99123,
         "mode": "SSH_PROXY",
-        "name": "CLARO SECURYTI 01",
+        "name": "CLARO SECURYTI 00",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
