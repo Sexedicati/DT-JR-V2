@@ -289,7 +289,7 @@
   },
   {
     "label": "LBL_CHECK_USER_MESSAGE",
-    "text": "TEM INFORMAÇÃO AQUI NÃO 😤"
+    "text": "👤 Nome de usuario: {Gratuito}<br>📆 Expira em: {01/01/2040}<br>📅 Dias restantes: {999}<br>🚫 Conexoes: {991}|{999}"
   },
   {
     "label": "LBL_NETWORK_STATUS",
