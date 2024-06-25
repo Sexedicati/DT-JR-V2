@@ -145,7 +145,7 @@
         "icon": "https://i.ibb.co/M6Hnsdh/ic-vivo.png",
         "id": 98735,
         "mode": "SSH_PROXY",
-        "name": "𝐕𝐈𝐕𝐎 EASY Teste",
+        "name": "𝐕𝐈𝐕𝐎 EASY",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
