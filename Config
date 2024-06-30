@@ -506,8 +506,7 @@
             7400,
             7500,
             7600,
-            7700,
-           1-65535
+            7700
         ],
         "updated_at": "2023-09-02 20:57:42",
         "url_check_user": "https://xcloudssh.painelatlas.store/checkuser/dtunnel.php?user=",
