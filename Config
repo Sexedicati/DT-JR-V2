@@ -494,7 +494,7 @@
         },
         "server": {
             "host": "br2.vpnjantit.com",
-            "port": 80
+            "port": 22
         },
         "sorter": -1,
         "status": "ACTIVE",
