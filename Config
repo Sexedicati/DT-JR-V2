@@ -485,16 +485,16 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/yB7mtLm/ic-tim.png",
-        "id": 99124,
+        "id": 99125,
         "mode": "SSH_PROXY",
-        "name": "TIM TODOS DDS 05",
+        "name": "TIM TODOS DDS 5",
         "proxy": {
             "host": "141.193.213.11#172.67.74.152#104.19.241.93#104.18.28.182#104.19.239.25#172.64.154.143#104.18.99.70",
             "port": 80
         },
         "server": {
             "host": "uss-4.optnl.com",
-            "port": 8080
+            "port": 80
         },
         "sorter": -1,
         "status": "ACTIVE",
