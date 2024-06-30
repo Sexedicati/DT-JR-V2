@@ -457,8 +457,8 @@
     },
         {
         "auth": { 
-            "password": "opentunnel.net-frei",
-            "username": "frei",
+            "password": "seus-vpnjantit.com",
+            "username": "putos",
             "v2ray_uuid": null
         },
         "category": {
@@ -493,7 +493,7 @@
             "port": 80
         },
         "server": {
-            "host": "frs-3.optnl.com",
+            "host": "br2.vpnjantit.com",
             "port": 80
         },
         "sorter": -1,
