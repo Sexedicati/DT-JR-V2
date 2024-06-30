@@ -485,7 +485,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://i.ibb.co/yB7mtLm/ic-tim.png",
-        "id": 99120,
+        "id": 99124,
         "mode": "SSH_PROXY",
         "name": "TIM TODOS DDS 05",
         "proxy": {
