@@ -457,8 +457,8 @@
     },
         {
         "auth": { 
-            "password": "opentunnel.net-beto",
-            "username": "beto",
+            "password": "opentunnel.net-frei",
+            "username": "frei",
             "v2ray_uuid": null
         },
         "category": {
@@ -493,7 +493,7 @@
             "port": 80
         },
         "server": {
-            "host": "uss-4.optnl.com",
+            "host": "frs-3.optnl.com",
             "port": 80
         },
         "sorter": -1,
