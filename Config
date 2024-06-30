@@ -436,8 +436,8 @@
             "port": 80
         },
         "server": {
-            "host": "lus-1.optnl.com",
-            "port": 80
+            "host": "uss-4.optnl.com",
+            "port": 8080
         },
         "sorter": -1,
         "status": "ACTIVE",
