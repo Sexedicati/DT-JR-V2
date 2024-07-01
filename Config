@@ -400,8 +400,8 @@
     },
     {
         "auth": {
-            "password": "beto",
-            "username": "beto",
+            "password": "suas",
+            "username": "euso",
             "v2ray_uuid": null
         },
         "category": {
@@ -436,8 +436,8 @@
             "port": 80
         },
         "server": {
-            "host": "uss-4.optnl.com",
-            "port": 8080
+            "host": "sg.servergo.pw",
+            "port": 80
         },
         "sorter": -1,
         "status": "ACTIVE",
@@ -715,7 +715,7 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99123,
         "mode": "SSH_PROXY",
-        "name": "CLARO SECURITY 3",
+        "name": "CLARO SECURITY 03",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
