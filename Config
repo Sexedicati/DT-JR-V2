@@ -739,5 +739,62 @@
         "updated_at": "2023-09-10 03:05:23",
         "url_check_user": "https://xcloudssh.store/checkuser/dtunnel.php?user=",
         "user_id": "c9d38071-682e-42ed-9a1a-1be9894bf3ea"
+    },
+    {
+        "auth": {
+            "password": "ssht",
+            "username": "ssht",
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#4F4F4F",
+            "created_at": "2023-08-30 21:33:14",
+            "id": 7560,
+            "name": "CLARO 🔴",
+            "sorter": 3,
+            "status": "INACTIVE",
+            "updated_at": "2023-09-14 01:31:49",
+            "user_id": "c9d38071-682e-42ed-9a1a-1be9894bf3ea"
+        },
+        "category_id": 7560,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "ACL / HTTP/1.1[lf]Host: meuplanoclaro.com.br[lf]HTTP/1.1[lf]Host: meuplanoclaro.com.br[lf]X-Online-Host: meuplanoclaro.com.br[lf]X-Forwarded-Host: meuplanoclaro.com.br[lf]X-Forwarded-For: meuplanoclaro.com.br[lf]Proxy-Connection: Websocket[lf]Connection: Websocket[lf] [lf][lf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "created_at": "2023-09-02 21:03:27",
+        "description": "𝔸𝔾𝕌𝔸ℝ𝔻𝔼 𝔸𝕃𝔾𝕌ℕ𝕊 𝕊𝔼𝔾𝕌ℕ𝔻𝕆𝕊 𝔸𝕋𝔼 ℂ𝕆ℕ𝔼ℂ𝕋𝔸ℝ!",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/TWqkqrY/claro.png",
+        "id": 99126,
+        "mode": "SSH_PROXY",
+        "name": "CLARO SECURITY 04",
+        "proxy": {
+            "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
+            "port": 80
+        },
+        "server": {
+            "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
+            "port": 80
+        },
+        "sorter": -1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300,
+            7100,
+            7200,
+            7400,
+            7500,
+            7600,
+            7700
+        ],
+        "updated_at": "2023-09-10 03:05:23",
+        "url_check_user": "https://xcloudssh.store/checkuser/dtunnel.php?user=",
+        "user_id": "c9d38071-682e-42ed-9a1a-1be9894bf3ea"
     }
 ]
