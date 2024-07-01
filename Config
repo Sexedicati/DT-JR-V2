@@ -494,7 +494,7 @@
         },
         "server": {
             "host": "br2.vpnjantit.com",
-            "port": 22
+            "port": 81
         },
         "sorter": -1,
         "status": "ACTIVE",
@@ -715,7 +715,7 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99123,
         "mode": "SSH_PROXY",
-        "name": "CLARO SECURITY 03",
+        "name": "CLARO SECURITY 02",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
