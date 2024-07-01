@@ -457,8 +457,8 @@
     },
         {
         "auth": { 
-            "password": "seus-vpnjantit.com",
-            "username": "putos",
+            "password": "Euno-vpnjantit.com",
+            "username": "Euna",
             "v2ray_uuid": null
         },
         "category": {
@@ -493,8 +493,8 @@
             "port": 80
         },
         "server": {
-            "host": "br2.vpnjantit.com",
-            "port": 81
+            "host": "ns-ae2.vpnjantit.com",
+            "port": 80
         },
         "sorter": -1,
         "status": "ACTIVE",
@@ -715,7 +715,7 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99123,
         "mode": "SSH_PROXY",
-        "name": "CLARO SECURITY 02",
+        "name": "CLARO SECURITY 03",
         "proxy": {
             "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
             "port": 80
