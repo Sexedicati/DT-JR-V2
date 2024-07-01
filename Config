@@ -31,7 +31,7 @@
         "icon": "https://i.ibb.co/M6Hnsdh/ic-vivo.png",
         "id": 98733,
         "mode": "SSH_PROXY",
-        "name": "𝐕𝐈𝐕𝐎 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘",
+        "name": "𝐕𝐈𝐕𝐎 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 0",
         "proxy": {
             "host": "104.17.70.206",
             "port": 443
