@@ -886,14 +886,14 @@
         "icon": "https://i.ibb.co/TWqkqrY/claro.png",
         "id": 99128,
         "mode": "SSL_DIRECT",
-        "name": "CLARO SSL",
+        "name": "CLARO SSL 01",
         "proxy": {
             "host": "204.216.183.187#168.138.143.182#149.78.186.223#149.78.186.223#148.113.174.235#148.113.174.242#148.113.174.243#148.113.174.234#148.113.174.240#148.113.174.237#148.113.174.236#51.79.86.27#51.79.52.113#51.222.86.236",
             "port": 443
         },
         "server": {
-            "host": "free1.sshtproject.com#free2.sshtproject.com#free3.sshtproject.com#free4.sshtproject.com#free5.sshtproject.com#free6.sshtproject.com",
-            "port": 80
+            "host": null,
+            "port": null
         },
         "sorter": -1,
         "status": "ACTIVE",
